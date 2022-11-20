@@ -1,0 +1,102 @@
+.heading {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: cursive;
+    margin-top: 10px;
+}
+
+.margin-left {
+    margin-left: 30px;
+}
+.bodyco{
+    background-color: rgb(94 170 170);
+}
+.sub-heading {
+    font-size: 16px;
+    color: darkgrey;
+    font-family: cursive;
+    margin-bottom: 10px;
+}
+
+.item {
+    display: inline-block;
+    height: 150px;
+    width: 330px;
+    border: solid 1px #0ea0c9;
+    margin: 5px 60px 15px 0px;
+    box-shadow: 10px 10px 9px 3px #325f60;
+    background-color: rgb(204 251 241);
+}
+
+.item-left{
+    display: inline-block;
+    width: 50%;
+}
+
+.item-right{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+
+.item-heading {
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue;
+    margin-bottom: 9px;
+    font-family: cursive;
+}
+
+.item-sub-heading{
+    font-size: 15px;
+    color: darkgrey;
+    font-family: cursive;
+
+
+    
+}
+.logo {
+    color: red;
+    height: 80px;
+    width: 80px;
+    background: antiquewhite;
+    /* border-radius: 50%; */
+    text-align: center;
+    font-size: 65px;
+    padding-top: 0;
+    margin-left: 300;
+    border-radius: 30px 30px 30px 30px;
+}
+.abc{
+    margin-left:40;
+}
+.position{
+    margin-top: 10;
+}
+
+.position{
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+
+.wallpaper-heading {
+    color: #1d1e20;
+    font-size: 45;
+    line-height: 1;
+    background-color: #d8feff;
+    font-family: ubuntu;
+    margin-left: 70;
+}
+.dd{
+    width: 160px;
+    height: 30px;
+}
+.search{
+    width: 330px;
+    height: 30px;
+}
